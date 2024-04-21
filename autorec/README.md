@@ -6,7 +6,7 @@ The goal is to train the user-item rating model using the auto-encoder architect
 
 ## Installation
 
-Download the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/) into folder `data/ml-1m/*.dat`. Smaller version (100k) is also available. Then, set up the enviornment using command:
+Download the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/) into folder `data/ml-1m/*.dat`. Smaller version (100k) is also available. Then, set up Conda environment using command:
 
 ```bash
 mamba env create -f environments.yml  # create conda env
