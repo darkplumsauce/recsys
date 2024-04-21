@@ -14,6 +14,7 @@ conda activate recsys                 # activate env
 ```
 
 ## Running Instruction
+Update `config/config.yml` to your needs. Then, run command:
 
 ```bash
 python3 main.py # run the code
