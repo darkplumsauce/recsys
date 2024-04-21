@@ -8,7 +8,6 @@ dependencies:
   - pip<=24.0
   - jupyter<=1.0.0
   - pandas<=2.2.2
-  - polars<=0.20.21
   - pytorch<=2.2.2
   - pytorch-cuda<=12.1
   - pyyaml<=6.0.1
